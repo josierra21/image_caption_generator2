@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+artifacts/*
+!artifacts/caption_tokenizer_vgg16.pkl
+!artifacts/caption_config_vgg16.pkl
+!artifacts/generator_app.png
+artifacts/*.keras
+artifacts/*.h5
+artifacts/*.pt
+artifacts/*.pth
