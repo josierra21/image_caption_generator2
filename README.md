@@ -13,11 +13,9 @@ image_caption_generator2/
   resource/
 ```
 
-The Flickr30k images and captions are stored separately at:
+The Flickr30k dataset was pulled from Kaggle:
 
-```text
-C:\caption_generator2_pics&captions
-```
+https://www.kaggle.com/datasets/eeshawn/flickr30k
 
 ## Setup
 
