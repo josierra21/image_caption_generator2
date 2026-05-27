@@ -45,6 +45,10 @@ vgg16_features.pkl
 
 ## Running the project
 
+You can use the deployed app here:
+
+https://joannas-image-caption-generator2.streamlit.app/
+
 To run the app locally after training, use:
 
 ```bash
